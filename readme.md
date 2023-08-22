@@ -1,6 +1,6 @@
 <div align="justify">
 
-# Hi, I'm Thomas! 👋
+# Hola, soy Thomas! 👋
 ¡Saludos! Soy Thomas, un alquimista digital que fusiona líneas de código para dar vida a las ideas. Mi laboratorio es el mundo del desarrollo de software, donde mezclo ingredientes como PHP, JAVA, JS y C++ en un caldero de creatividad. Con una pizca de magia digital y un toque de habilidad, destilo soluciones elegantes. Sumérgete en mi mundo y descubre cómo transformo simples palabras en experiencias interactivas y funcionales.
 ## 🛠 Skills
 Poseo una amplia gama de habilidades en el campo del desarrollo web y de software, abarcando diversas tecnologías clave. Mi experiencia incluye un sólido dominio de lenguajes como JavaScript, C#, y PHP, así como el uso experto de frameworks como .NET y Laravel. Mi conocimiento en la creación de interfaces de usuario con HTML y CSS garantiza la entrega de experiencias visuales atractivas y funcionales. Además, tengo experiencia en el desarrollo de APIs, lo que me permite crear conexiones eficientes y seguras entre aplicaciones. Con mi conjunto de habilidades versátiles, estoy preparado para enfrentar desafíos en el desarrollo web y de software con confianza y creatividad.
