@@ -1,3 +1,4 @@
+<div align="justify">
 
 # Hi, I'm Thomas! 👋
 ¡Saludos! Soy Thomas, un alquimista digital que fusiona líneas de código para dar vida a las ideas. Mi laboratorio es el mundo del desarrollo de software, donde mezclo ingredientes como PHP, JAVA, JS y C++ en un caldero de creatividad. Con una pizca de magia digital y un toque de habilidad, destilo soluciones elegantes. Sumérgete en mi mundo y descubre cómo transformo simples palabras en experiencias interactivas y funcionales.
@@ -11,3 +12,4 @@ Mi caja de herramientas incluye una amplia gama de habilidades, desde el desarro
 Mi objetivo es aprovechar mi pasión por la programación y mis habilidades técnicas en constante evolución para abordar problemas complejos y encontrar soluciones innovadoras. Estoy entusiasmado por seguir aprendiendo y creciendo en este campo en constante cambio, y estoy listo para enfrentar nuevos desafíos y colaborar en equipos interdisciplinarios para llevar a cabo proyectos que tengan un impacto real. A medida que sigo forjando mi camino en el mundo del desarrollo de software, estoy emocionado por contribuir al crecimiento y la transformación digital en la industria. ¡Acompáñame en esta emocionante travesía tecnológica!
 ##
 <p align="center"><img src="https://github-profile-trophy.vercel.app/?username=tasitaconte&row=2&colum=3"></p>
+<div>
