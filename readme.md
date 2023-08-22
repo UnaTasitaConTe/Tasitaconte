@@ -9,5 +9,5 @@ Poseo una amplia gama de habilidades en el campo del desarrollo web y de softwar
 Mi caja de herramientas incluye una amplia gama de habilidades, desde el desarrollo frontend utilizando HTML, CSS y JavaScript para crear interfaces atractivas y amigables, hasta la creación de potentes APIs que conectan aplicaciones y sistemas. Mi experiencia en lenguajes como C#, PHP y .NET me ha permitido sumergirme en proyectos versátiles y desafiantes, y mi familiaridad con el framework Laravel me ha brindado la capacidad de crear soluciones robustas y escalables.
 
 Mi objetivo es aprovechar mi pasión por la programación y mis habilidades técnicas en constante evolución para abordar problemas complejos y encontrar soluciones innovadoras. Estoy entusiasmado por seguir aprendiendo y creciendo en este campo en constante cambio, y estoy listo para enfrentar nuevos desafíos y colaborar en equipos interdisciplinarios para llevar a cabo proyectos que tengan un impacto real. A medida que sigo forjando mi camino en el mundo del desarrollo de software, estoy emocionado por contribuir al crecimiento y la transformación digital en la industria. ¡Acompáñame en esta emocionante travesía tecnológica!
-
+##
 <p align="center"><img src="https://github-profile-trophy.vercel.app/?username=tasitaconte&row=2&colum=3"></p>
