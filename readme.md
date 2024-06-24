@@ -16,6 +16,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/unatasitaconte/unatasitaconte/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/UnaTasitaConTe/UnaTasitaConTe/output/snake.svg" alt="Snake animation" />
 
 ###
